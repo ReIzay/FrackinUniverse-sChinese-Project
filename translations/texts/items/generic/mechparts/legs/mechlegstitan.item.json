@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegstitan.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light and swift exploration legs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegstitan.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titan Mech Legs"
+    }
+  }
+]

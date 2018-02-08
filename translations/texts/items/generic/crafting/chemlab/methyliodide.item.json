@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/methyliodide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely toxic, but useful lab reagent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/methyliodide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Methyl Iodide"
+    }
+  }
+]

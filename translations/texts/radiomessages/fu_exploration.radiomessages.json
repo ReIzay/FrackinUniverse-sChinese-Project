@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wonderful grotto. This water looks to be quite refreshing. A swim might be ^green;just what you need^reset;, but look out for ^red;predators beneath the surface^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
         "/fubiomepressureday/text"
       ]
     },
@@ -49,6 +60,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectair2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't forget to jump to your death! How else are you going to make ^green;splatter-cakes^reset;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
         "/fubiomepressure/text"
       ]
     },
@@ -67,6 +89,17 @@
     "Texts": {
       "Chs": "你疯了吗？这里的压强在累积到某种程度之后足以在瞬间杀死你，我建议你要么回去准备一些^orange;抵抗压强^reset;的东西再来探险，要么体验死亡！",
       "Eng": "Have you gone mad? The pressure here is enough to crush you almost instantly! What would possess you to come unprotected? Get some ^orange;pressure protection^reset; or face death!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptopdoorshoot1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmm. This door appears well sealed. Perhaps some ^orange;Explosive Force^reset; might open it. A grenade, bomb or rocket should do the trick."
     }
   },
   {
@@ -111,7 +144,7 @@
       ]
     },
     "Texts": {
-      "Eng": "I appear to be in deep space! I should ^orange;immediately remove my armor or air supply^reset; so that I can truly appreciate weightlessness! I'll float better! Plus, I'll be even ^green;more^reset; desirable to the opposite sex!"
+      "Eng": "I appear to be weightless! I should ^orange;immediately remove my armor or air supply^reset; so that I can truly appreciate weightlessness! I'll float better! Plus, I'll be even ^green;more^reset; desirable to the opposite sex!"
     }
   },
   {
@@ -123,6 +156,17 @@
     },
     "Texts": {
       "Eng": "I bet that swimming in ^orange;molten iron^reset; is both revitalizing and enjoyable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear ^orange;subtle hints of gutteral sound^reset; over your frequency. Keep an eye out for predators."
     }
   },
   {
@@ -209,6 +253,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectweirdo2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is common knowledge that ingesting molten metal helps you strengthen your bone structure. Don't miss out on that!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It would appear, based on lifesigns, that you have stumbled onto some sort of nest. Be aware: ^red;one large mutant^reset; has been detected. The ^orange;energy source^reset; we seek is also nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
         "/insanityeffectair/text"
       ]
     },
@@ -254,6 +320,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptopdoorshoot2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ohmygoshohmygoshohmygosh ^orange;OH MY GOSH^reset;! Undiscovered ruins of the ^green;Ancients^reset;! Go! EXPLORE!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
         "/insanityeffecthungry2/text"
       ]
     },
@@ -282,6 +359,17 @@
     },
     "Texts": {
       "Eng": "Pocket Lint"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectair3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remember how much you hate all of existence. Now celebrate that hate by taking a leap of faith off the nearest high ledge and hope for the best!"
     }
   },
   {
@@ -317,6 +405,50 @@
     "Texts": {
       "Chs": "风中似乎传来了一些声音，在你仔细听完之后，发觉这实在太荒诞了！它告诉你在全身赤裸的情况下，深入硫酸海，在海底你可以发现某些事情！",
       "Eng": "The voices in the wind have informed you of a fantastic sale! It can only be found at the bottom of a Sulphuric Ocean, and only if you're naked! Totally legit! Check it out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place is long abandoned, it would seem. At one point this world had a promising outlook. I wonder what happened?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectweirdo3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "To counter the iron loss from cannibalism-induced bleeding, you must consume liquid iron in copious amounts. it's the easiest way to replenish your iron stores. ^red;Trust me^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unless you are exeptionally nimble, you are going to need ^orange;climbing ropes^reset; to get up there. I can detect something beyond, so you might consider investigating when you find some!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectweirdo4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use ^green;all of your energy^reset;, and then ^red;run naked, screaming, into packs of monsters^reset;. There is no other way to make perogies."
     }
   },
   {
@@ -405,6 +537,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow. Functioning tech, too! You ^orange;NEED^orange; to check that out! PLEASE! For science!?!?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
         "/insanityeffectskin/text"
       ]
     },
@@ -417,6 +560,8 @@
     "Files": {
       "radiomessages/fu_exploration.radiomessages": [
         "/insanityeffectair/senderName",
+        "/insanityeffectair2/senderName",
+        "/insanityeffectair3/senderName",
         "/insanityeffectducts/senderName",
         "/insanityeffectdying/senderName",
         "/insanityeffectdying2/senderName",
@@ -435,7 +580,11 @@
         "/insanityeffectmusic/senderName",
         "/insanityeffectneat/senderName",
         "/insanityeffectskin/senderName",
-        "/insanityeffectwee/senderName"
+        "/insanityeffectwee/senderName",
+        "/insanityeffectweirdo1/senderName",
+        "/insanityeffectweirdo2/senderName",
+        "/insanityeffectweirdo3/senderName",
+        "/insanityeffectweirdo4/senderName"
       ]
     },
     "Texts": {
@@ -532,6 +681,17 @@
     "Texts": {
       "Chs": "^red;警告：毒性空气！^reset;这里的空气似乎有些黏稠，你发觉你的五感越来越迟钝，身体越来越虚弱。",
       "Eng": "^red;WARNING: TOXIC ATMOSPHERE!^reset; The air here is thick with some sort of viscosity. It makes you feel sluggish, and you feel yourself getting weaker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_exploration.radiomessages": [
+        "/insanityeffectweirdo1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "hey, you should try experimenting with radioactive materials by ingesting them! you shouldn't miss on getting all the superpowers!"
     }
   }
 ]

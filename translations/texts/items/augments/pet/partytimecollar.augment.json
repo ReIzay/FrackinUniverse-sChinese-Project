@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/augments/pet/partytimecollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "....WTF？",
+      "Eng": "....wtf?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/partytimecollar.augment": [
         "/shortdescription"
       ]
     },

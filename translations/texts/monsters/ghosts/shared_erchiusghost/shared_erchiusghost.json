@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/erchiusghost2/erchiusghost2.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/ghosts/erchiusghost3/erchiusghost3.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius Ghost"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/erchiusghost2/erchiusghost2.monstertype": [
+        "/description"
+      ],
+      "monsters/ghosts/erchiusghost3/erchiusghost3.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "When it closes its eyes it becomes immune to attacks by entering a different plane of existence."
+    }
+  }
+]

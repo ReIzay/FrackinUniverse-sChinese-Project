@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodytitan.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Certified for deep ocean and gas giant exploration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodytitan.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titan Mech Body"
+    }
+  }
+]

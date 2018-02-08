@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/funomadrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Highly useful weapon for wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Rad Burn^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/funomadrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "游猎步枪",
+      "Eng": "Nomad Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/funomadrifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Chs": "散射",
+      "Eng": "Radiation Burst"
+    }
+  }
+]

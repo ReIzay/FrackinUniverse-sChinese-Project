@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/fusentrygun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Launches a defensive turret. 10s reload."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/fusentrygun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentry Gun Arm"
+    }
+  }
+]
